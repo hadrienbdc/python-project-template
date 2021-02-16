@@ -1,6 +1,6 @@
 # Python project template
 
-Boilerplate template for machine learning projects in Python.
+*Boilerplate template for machine learning projects in Python.*
 
 To build docker image :
 ```sh
